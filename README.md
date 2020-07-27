@@ -1,3 +1,3 @@
 # pgv_attenuation
-by machine learning
+by machine learning.
 Random forest, Neural network and lsm.
