@@ -1,4 +1,4 @@
-# Whati is PGV attenuation
+# What is PGV attenuation
 The attenuation relationship is a method to predict the ground motion intensity of earthquake that may occur in the future based on the ground motion records of past earthquakes.
 # Introduction
 This project tries to develop new attenuation relationships of peak ground velocity using machine learning methods: random forest and neural network. 
